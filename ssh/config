@@ -1,0 +1,10 @@
+Host git.worten.net
+  HostName git.worten.net
+  User git
+  IdentityFile ~/.ssh/id_ed25519_worten
+  IdentitiesOnly yes
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_ed25519_pessoal
+  IdentitiesOnly yes

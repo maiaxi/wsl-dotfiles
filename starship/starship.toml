@@ -1,0 +1,15 @@
+add_newline = false
+
+[character]
+success_symbol = "[❯](green)"
+error_symbol = "[❯](red)"
+
+[directory]
+style = "blue"
+truncate_to_repo = false
+
+[git_branch]
+symbol = "🌱 "
+
+[golang]
+format = "[$symbol($version )]($style)"

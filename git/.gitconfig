@@ -1,0 +1,5 @@
+[includeIf "gitdir:~/dev/git.worten.net/"]
+    path = ~/.gitconfig-worten
+
+[includeIf "gitdir:~/dev/personal/"]
+    path = ~/.gitconfig-pessoal
